@@ -1,0 +1,8 @@
+name    'fnerdwq-groups'
+version '0.0.1'
+source 'https://github.com/fnerdwq/puppet-groups.git'
+author 'Frederik Wagner'
+license 'Apache License, Version 2.0'
+summary 'Puppet module managing groups'
+description 'Small module to manage groupss through puppet and hiera'
+project_page 'https://github.com/fnerdwq/puppet-groups'
